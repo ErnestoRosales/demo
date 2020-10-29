@@ -1,0 +1,71 @@
+C:\Users\Familia Gomez\Desktop\universidad\CICLO 02 -2020\PROGRA 2\versiones de proyecto\V2\SISTEMADECLINICA\bin\SISTEMADECLINICA.dll.config
+C:\Users\Familia Gomez\Desktop\universidad\CICLO 02 -2020\PROGRA 2\versiones de proyecto\V2\SISTEMADECLINICA\bin\SISTEMADECLINICA.dll
+C:\Users\Familia Gomez\Desktop\universidad\CICLO 02 -2020\PROGRA 2\versiones de proyecto\V2\SISTEMADECLINICA\bin\SISTEMADECLINICA.pdb
+C:\Users\Familia Gomez\Desktop\universidad\CICLO 02 -2020\PROGRA 2\versiones de proyecto\V2\SISTEMADECLINICA\bin\roslyn\csc.exe
+C:\Users\Familia Gomez\Desktop\universidad\CICLO 02 -2020\PROGRA 2\versiones de proyecto\V2\SISTEMADECLINICA\bin\roslyn\csc.exe.config
+C:\Users\Familia Gomez\Desktop\universidad\CICLO 02 -2020\PROGRA 2\versiones de proyecto\V2\SISTEMADECLINICA\bin\roslyn\csc.rsp
+C:\Users\Familia Gomez\Desktop\universidad\CICLO 02 -2020\PROGRA 2\versiones de proyecto\V2\SISTEMADECLINICA\bin\roslyn\csi.exe
+C:\Users\Familia Gomez\Desktop\universidad\CICLO 02 -2020\PROGRA 2\versiones de proyecto\V2\SISTEMADECLINICA\bin\roslyn\csi.rsp
+C:\Users\Familia Gomez\Desktop\universidad\CICLO 02 -2020\PROGRA 2\versiones de proyecto\V2\SISTEMADECLINICA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Familia Gomez\Desktop\universidad\CICLO 02 -2020\PROGRA 2\versiones de proyecto\V2\SISTEMADECLINICA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Familia Gomez\Desktop\universidad\CICLO 02 -2020\PROGRA 2\versiones de proyecto\V2\SISTEMADECLINICA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Familia Gomez\Desktop\universidad\CICLO 02 -2020\PROGRA 2\versiones de proyecto\V2\SISTEMADECLINICA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Familia Gomez\Desktop\universidad\CICLO 02 -2020\PROGRA 2\versiones de proyecto\V2\SISTEMADECLINICA\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Familia Gomez\Desktop\universidad\CICLO 02 -2020\PROGRA 2\versiones de proyecto\V2\SISTEMADECLINICA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Familia Gomez\Desktop\universidad\CICLO 02 -2020\PROGRA 2\versiones de proyecto\V2\SISTEMADECLINICA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Familia Gomez\Desktop\universidad\CICLO 02 -2020\PROGRA 2\versiones de proyecto\V2\SISTEMADECLINICA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Familia Gomez\Desktop\universidad\CICLO 02 -2020\PROGRA 2\versiones de proyecto\V2\SISTEMADECLINICA\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Familia Gomez\Desktop\universidad\CICLO 02 -2020\PROGRA 2\versiones de proyecto\V2\SISTEMADECLINICA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Familia Gomez\Desktop\universidad\CICLO 02 -2020\PROGRA 2\versiones de proyecto\V2\SISTEMADECLINICA\bin\roslyn\System.AppContext.dll
+C:\Users\Familia Gomez\Desktop\universidad\CICLO 02 -2020\PROGRA 2\versiones de proyecto\V2\SISTEMADECLINICA\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Familia Gomez\Desktop\universidad\CICLO 02 -2020\PROGRA 2\versiones de proyecto\V2\SISTEMADECLINICA\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Familia Gomez\Desktop\universidad\CICLO 02 -2020\PROGRA 2\versiones de proyecto\V2\SISTEMADECLINICA\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Familia Gomez\Desktop\universidad\CICLO 02 -2020\PROGRA 2\versiones de proyecto\V2\SISTEMADECLINICA\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Familia Gomez\Desktop\universidad\CICLO 02 -2020\PROGRA 2\versiones de proyecto\V2\SISTEMADECLINICA\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Familia Gomez\Desktop\universidad\CICLO 02 -2020\PROGRA 2\versiones de proyecto\V2\SISTEMADECLINICA\bin\roslyn\vbc.exe
+C:\Users\Familia Gomez\Desktop\universidad\CICLO 02 -2020\PROGRA 2\versiones de proyecto\V2\SISTEMADECLINICA\bin\roslyn\vbc.exe.config
+C:\Users\Familia Gomez\Desktop\universidad\CICLO 02 -2020\PROGRA 2\versiones de proyecto\V2\SISTEMADECLINICA\bin\roslyn\vbc.rsp
+C:\Users\Familia Gomez\Desktop\universidad\CICLO 02 -2020\PROGRA 2\versiones de proyecto\V2\SISTEMADECLINICA\bin\roslyn\VBCSCompiler.exe
+C:\Users\Familia Gomez\Desktop\universidad\CICLO 02 -2020\PROGRA 2\versiones de proyecto\V2\SISTEMADECLINICA\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Familia Gomez\Desktop\universidad\CICLO 02 -2020\PROGRA 2\versiones de proyecto\V2\SISTEMADECLINICA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Familia Gomez\Desktop\universidad\CICLO 02 -2020\PROGRA 2\versiones de proyecto\V2\SISTEMADECLINICA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Familia Gomez\Desktop\universidad\CICLO 02 -2020\PROGRA 2\versiones de proyecto\V2\SISTEMADECLINICA\obj\Debug\SISTEMADECLINICA.csprojAssemblyReference.cache
+C:\Users\Familia Gomez\Desktop\universidad\CICLO 02 -2020\PROGRA 2\versiones de proyecto\V2\SISTEMADECLINICA\obj\Debug\SISTEMADECLINICA.csproj.CopyComplete
+C:\Users\Familia Gomez\Desktop\universidad\CICLO 02 -2020\PROGRA 2\versiones de proyecto\V2\SISTEMADECLINICA\obj\Debug\SISTEMADECLINICA.dll
+C:\Users\Familia Gomez\Desktop\universidad\CICLO 02 -2020\PROGRA 2\versiones de proyecto\V2\SISTEMADECLINICA\obj\Debug\SISTEMADECLINICA.pdb
+C:\Users\Juan Anzora\Documents\CICLO 02-2020\Progra II\V2\SISTEMADECLINICA\bin\SISTEMADECLINICA.dll.config
+C:\Users\Juan Anzora\Documents\CICLO 02-2020\Progra II\V2\SISTEMADECLINICA\bin\SISTEMADECLINICA.dll
+C:\Users\Juan Anzora\Documents\CICLO 02-2020\Progra II\V2\SISTEMADECLINICA\bin\SISTEMADECLINICA.pdb
+C:\Users\Juan Anzora\Documents\CICLO 02-2020\Progra II\V2\SISTEMADECLINICA\bin\roslyn\csc.exe
+C:\Users\Juan Anzora\Documents\CICLO 02-2020\Progra II\V2\SISTEMADECLINICA\bin\roslyn\csc.exe.config
+C:\Users\Juan Anzora\Documents\CICLO 02-2020\Progra II\V2\SISTEMADECLINICA\bin\roslyn\csc.rsp
+C:\Users\Juan Anzora\Documents\CICLO 02-2020\Progra II\V2\SISTEMADECLINICA\bin\roslyn\csi.exe
+C:\Users\Juan Anzora\Documents\CICLO 02-2020\Progra II\V2\SISTEMADECLINICA\bin\roslyn\csi.rsp
+C:\Users\Juan Anzora\Documents\CICLO 02-2020\Progra II\V2\SISTEMADECLINICA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Juan Anzora\Documents\CICLO 02-2020\Progra II\V2\SISTEMADECLINICA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Juan Anzora\Documents\CICLO 02-2020\Progra II\V2\SISTEMADECLINICA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Juan Anzora\Documents\CICLO 02-2020\Progra II\V2\SISTEMADECLINICA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Juan Anzora\Documents\CICLO 02-2020\Progra II\V2\SISTEMADECLINICA\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Juan Anzora\Documents\CICLO 02-2020\Progra II\V2\SISTEMADECLINICA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Juan Anzora\Documents\CICLO 02-2020\Progra II\V2\SISTEMADECLINICA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Juan Anzora\Documents\CICLO 02-2020\Progra II\V2\SISTEMADECLINICA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Juan Anzora\Documents\CICLO 02-2020\Progra II\V2\SISTEMADECLINICA\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Juan Anzora\Documents\CICLO 02-2020\Progra II\V2\SISTEMADECLINICA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Juan Anzora\Documents\CICLO 02-2020\Progra II\V2\SISTEMADECLINICA\bin\roslyn\System.AppContext.dll
+C:\Users\Juan Anzora\Documents\CICLO 02-2020\Progra II\V2\SISTEMADECLINICA\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Juan Anzora\Documents\CICLO 02-2020\Progra II\V2\SISTEMADECLINICA\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Juan Anzora\Documents\CICLO 02-2020\Progra II\V2\SISTEMADECLINICA\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Juan Anzora\Documents\CICLO 02-2020\Progra II\V2\SISTEMADECLINICA\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Juan Anzora\Documents\CICLO 02-2020\Progra II\V2\SISTEMADECLINICA\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Juan Anzora\Documents\CICLO 02-2020\Progra II\V2\SISTEMADECLINICA\bin\roslyn\vbc.exe
+C:\Users\Juan Anzora\Documents\CICLO 02-2020\Progra II\V2\SISTEMADECLINICA\bin\roslyn\vbc.exe.config
+C:\Users\Juan Anzora\Documents\CICLO 02-2020\Progra II\V2\SISTEMADECLINICA\bin\roslyn\vbc.rsp
+C:\Users\Juan Anzora\Documents\CICLO 02-2020\Progra II\V2\SISTEMADECLINICA\bin\roslyn\VBCSCompiler.exe
+C:\Users\Juan Anzora\Documents\CICLO 02-2020\Progra II\V2\SISTEMADECLINICA\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Juan Anzora\Documents\CICLO 02-2020\Progra II\V2\SISTEMADECLINICA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Juan Anzora\Documents\CICLO 02-2020\Progra II\V2\SISTEMADECLINICA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Juan Anzora\Documents\CICLO 02-2020\Progra II\V2\SISTEMADECLINICA\obj\Debug\SISTEMADECLINICA.csprojAssemblyReference.cache
+C:\Users\Juan Anzora\Documents\CICLO 02-2020\Progra II\V2\SISTEMADECLINICA\obj\Debug\SISTEMADECLINICA.csproj.CoreCompileInputs.cache
+C:\Users\Juan Anzora\Documents\CICLO 02-2020\Progra II\V2\SISTEMADECLINICA\obj\Debug\SISTEMADECLINICA.csproj.CopyComplete
+C:\Users\Juan Anzora\Documents\CICLO 02-2020\Progra II\V2\SISTEMADECLINICA\obj\Debug\SISTEMADECLINICA.dll
+C:\Users\Juan Anzora\Documents\CICLO 02-2020\Progra II\V2\SISTEMADECLINICA\obj\Debug\SISTEMADECLINICA.pdb
